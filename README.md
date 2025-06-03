@@ -1,12 +1,17 @@
-# 🧠 Brainwave Matrix Internship – Task 1
+#  Brainwave Matrix Internship – Task 1
 
-This is my personal portfolio created as part of **Task 1** for the **Web Development Internship** at Brainwave Matrix Solutions.
+This is my **Personal Portfolio Website**, submitted as **Task 1** for the **Web Development Internship** at **Brainwave Matrix Solutions**.
 
-## 📌 Project Details
+## 📌 Project Overview
 
 - **Project Name**: Portfolio Website
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Deployment**: [Netlify Live Site](https://ornate-khapse-0e594f.netlify.app/)
+- **Frontend**: React.js (with Vite)
+- **Backend**: Node.js + Express
+- **Deployment**: [🌐 Live Site](https://ornate-khapse-0e594f.netlify.app/)
+- **Repository**: [GitHub Repo](https://github.com/Ayaanshaikhh30/Brainwave_Matrix_Intern)
 
-## 📁 Folder Structure
+---
+
+
+
 
