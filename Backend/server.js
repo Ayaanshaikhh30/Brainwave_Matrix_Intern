@@ -56,7 +56,7 @@ app.get("/", (req, res) => {
 
 //  Direct POST Route (Instead of external route file)
 app.post("/api/users", async (req, res) => {
-  try {
+  try {         
     const { name, email, message } = req.body;
 
     const newMessage = new Message({ name, email, message });
